@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harichandana Neralla</h1>
-<h3 align="center">A passionate Data Science graduate from University of Texas at Dallas. Passionate about leveraging data to drive insights, with expertise in machine learning, data mining, and statistical modeling.</h3>
+<h4 align="left">Hi 👋, I'm Harichandana Neralla</h4>
+<p align="left">A passionate Data Science graduate from the University of Texas at Dallas. Passionate about leveraging data to drive insights, with expertise in machine learning, data mining, and statistical modeling.</p>
 
 - 🔭 I’m currently working on **NLP, LLMs related projects and research.**
 
