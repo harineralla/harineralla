@@ -3,7 +3,7 @@
 
 <p align="left">- 🔭 I’m working on **GenAI, NLP, and LLMs-related projects and research.**</p>
 
-<p align="left">- 🌱 I’m currently learning **into Kafka, Redis, and Jaeger/Zipkin to incorporate real-time data ingestion and tracing in data science workflows.**</p>
+<p align="left">- 🌱 I’m currently learning **Kafka, Redis, and Jaeger/Zipkin to incorporate real-time data ingestion and tracing in data science workflows.**</p>
 
 
 <h3 align="left">Connect with me:</h3>
